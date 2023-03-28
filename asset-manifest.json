@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/car-rental/static/css/main.054508a9.css",
+    "main.js": "/car-rental/static/js/main.391f728d.js",
+    "static/media/ferrari.png": "/car-rental/static/media/ferrari.c165dd57e8b4497b689a.png",
+    "static/media/karollShelby.png": "/car-rental/static/media/karollShelby.a3e589c5e826b79ff57a.png",
+    "static/media/hero-bg.png": "/car-rental/static/media/hero-bg.71ab9a13d73de3860763.png",
+    "static/media/lambo.png": "/car-rental/static/media/lambo.46793a0b3a412560e5f6.png",
+    "static/media/leo.jpeg": "/car-rental/static/media/leo.d30eb2dfe1a1b6725574.jpeg",
+    "static/media/bmw.png": "/car-rental/static/media/bmw.74b3271885a5314b150a.png",
+    "static/media/mustang.png": "/car-rental/static/media/mustang.cc837ecdc4f7b679dc98.png",
+    "static/media/lotus.png": "/car-rental/static/media/lotus.648e22d64c2e494cda82.png",
+    "static/media/laFerrari.jpg": "/car-rental/static/media/laFerrari.887d2ae87ebaadcd1cc8.jpg",
+    "static/media/lotus1.jpg": "/car-rental/static/media/lotus1.7eae60702e909bad1627.jpg",
+    "static/media/kenMiles.jpg": "/car-rental/static/media/kenMiles.058df26c2bb809b26bd8.jpg",
+    "static/media/hurracane.avif": "/car-rental/static/media/hurracane.39e218844e7740af2bf3.avif",
+    "static/media/bmw4.jpg": "/car-rental/static/media/bmw4.2f937638702f5ba3457d.jpg",
+    "static/media/willSmith.jpg": "/car-rental/static/media/willSmith.0942ce247d4852b5ed22.jpg",
+    "static/media/kristen.webp": "/car-rental/static/media/kristen.e39c5b7805e34c8df146.webp",
+    "static/media/michael.webp": "/car-rental/static/media/michael.6584e8cf0333ca8bf8e2.webp",
+    "static/media/faq.png": "/car-rental/static/media/faq.5e21eedbea3280311aff.png",
+    "static/media/download-bg.png": "/car-rental/static/media/download-bg.3efbc4567749d0a5671e.png",
+    "static/media/mustangGT.webp": "/car-rental/static/media/mustangGT.75256e0688eac728ba0b.webp",
+    "index.html": "/car-rental/index.html",
+    "main.054508a9.css.map": "/car-rental/static/css/main.054508a9.css.map",
+    "main.391f728d.js.map": "/car-rental/static/js/main.391f728d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.054508a9.css",
+    "static/js/main.391f728d.js"
+  ]
+}
